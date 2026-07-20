@@ -1,3 +1,7 @@
-vienv/
+venv/
 __pychache__/
 *.pyc
+*.pkl
+*.h5
+*.pt
+sentence.json
